@@ -5,13 +5,17 @@
 Welcome to the 'HR Dashboard', an advanced Tableau project designed to provide comprehensive insights into HR metrics using real-world data from the HumanResources.csv dataset. This project showcases two key dashboards: HR | Summary and HR | Detailed, each offering unique perspectives and analytics capabilities tailored for HR professionals and decision-makers.
 
 ### Tableau Public Links
-[View Dashboard](https://public.tableau.com/app/profile/rajusau/viz/HRDashboard_17208820294640/HRSummary)
+  Dashboard on Tableau Public [View Dashboard](https://public.tableau.com/app/profile/rajusau/viz/HRDashboard_17208820294640/HRSummary)
 
 - **HR | Summary Dashboard:**
-  <img width="700" alt="HR  Summary" src="https://github.com/user-attachments/assets/23310b04-e28f-40bf-ab53-c7079a677206">
+  
+    ![HR _ Summary](https://github.com/user-attachments/assets/66cea3cf-67ca-4598-a454-a65230f23254)
 
-- **HR | Detailed Dashboard:** 
-<img width="700" alt="HR  Detailed" src="https://github.com/user-attachments/assets/71ac6674-efc8-4a98-b0ce-283716e04e1e">
+
+- **HR | Detailed Dashboard:**
+  
+    ![HR _ Detailed](https://github.com/user-attachments/assets/704c54fc-34b0-4d5c-a3a2-1005864e5959)
+
 
 ### Project Structure
 
